@@ -7,7 +7,8 @@ Node.js — with a focus on clean UI, REST API design, and secure authentication
 
 - 🔭 Currently working on: production features & APIs at Scipy Technologies
 - 🌱 Currently deepening: backend architecture & scalable API design
-- 💼 Portfolio: [anoop123313.github.io/Portfolio](https://anoop123313.github.io/Portfolio)
+- 💼 Check out my full project portfolio (including client work): 
+  [anoop123313.github.io/Portfolio](https://anoop123313.github.io/Portfolio)
 - 💬 Reach me: anoopsr3124@gmail.com
 
 ---
@@ -30,13 +31,6 @@ Node.js — with a focus on clean UI, REST API design, and secure authentication
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
----
-
-### 📌 Featured Projects
-
-- **[Mpact](https://github.com/ANOOP123313/Mpact)** — Full-stack e-commerce app with JWT auth, Redux Toolkit, and RazorPay integration
-- **[Denstack](https://github.com/ANOOP123313/Denstack)** — Hospital management system with patient records, scheduling, and reporting modules
 
 ---
 
